@@ -1,0 +1,20 @@
+https://www.e-stat.go.jp/mypage/view/api
+
+
+12f40d2a4396d86433fc20ff92f7720acce31ac9
+
+http://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?appId=12f40d2a4396d86433fc20ff92f7720acce31ac9&lang=J&statsDataId=0003224177&metaGetFlg=Y&cntGetFlg=N&explanationGetFlg=Y&annotationGetFlg=Y&sectionHeaderFlg=1
+
+
+accomodations statsDataId
+
+https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=1003010201000010000
+
+
+seasonally adjusted unemployment
+https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0301010000020020010
+
+
+rice price
+
+https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200571&tstat=000000680001&cycle=1&tclass1val=0
